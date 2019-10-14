@@ -1,1 +1,2 @@
 4.เพิ่มไฟล์ MyFirstGit.txt ใส่ข้อความลงไป Save
+Edit 2
